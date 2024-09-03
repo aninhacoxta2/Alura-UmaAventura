@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(36, 3, 156);
+    color: white;
+    font-family: "New Amsterdam", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    font-family: "New Amsterdam", sans-serif;
+}
+
+.passo{
+    display:nome;
+}
+
+.passo.ativo{
+    display:block;
+}
